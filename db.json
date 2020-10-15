@@ -1,3 +1,47 @@
 {
-  "score": ["$500", "$1,000", "$2,000", "$4,000", "$8,000", "$16,000", "$32,000", "$64,000", "$125,000", "$250,000", "$500,000", "$1,000,000" ]
+  "score": ["$500", "$1,000", "$2,000", "$4,000", "$8,000", "$16,000", "$32,000", "$64,000", "$125,000", "$250,000", "$500,000", "$1,000,000" ],
+  "questions": [
+    {
+      "question": "How old your elder brother was 10 years before you was born, mate?",
+      "answers": [
+        {
+          "answer": 4,
+          "option": false
+        },
+        {
+          "answer": 9,
+          "option": false
+        },
+        {
+          "answer": 10,
+          "option": true
+        },
+        {
+          "answer": 15,
+          "option": false
+        }
+      ]
+    },
+    {
+      "question": "What is the capital of madagascar?",
+      "answers": [
+        {
+          "answer": "Toamasina",
+          "option": false
+        },
+        {
+          "answer": "Antananarivo",
+          "option": true
+        },
+        {
+          "answer": "Addis Ababa",
+          "option": false
+        },
+        {
+          "answer": "Ouagadougou",
+          "option": false
+        }
+      ]
+    }
+  ]
 }
